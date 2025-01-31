@@ -54,25 +54,25 @@
     <div class="vs-menu-area text-center">
       <button class="vs-menu-toggle"><i class="fal fa-times"></i></button>
       <div class="mobile-logo">
-        <a href="index.html"><img src="#" alt="Court-booking"></a>
+        <a href="index.php"><img src="#" alt="Court-booking"></a>
       </div>
       <div class="vs-mobile-menu">
         <ul>
           <li class="">
-            <a href="index.html">Home</a>
+            <a href="index.php">Home</a>
           </li>
           <li class="">
-            <a href="about.html">About Us</a>
+            <a href="about.php">About Us</a>
 
           </li>
           <li class="">
-            <a href="court.html">Courts</a>
+            <a href="court.php">Courts</a>
           </li>
 
 
 
           <li>
-            <a href="contact.html">Contact</a>
+            <a href="contact.php">Contact</a>
           </li>
         </ul>
       </div>
@@ -115,7 +115,7 @@
           <div class="col-auto d-flex ">
 
 
-            <a class="user-btn" href="signin.html"><i class="far fa-user-circle"></i></a>
+            <a class="user-btn" href="signin.php"><i class="far fa-user-circle"></i></a>
           </div>
         </div>
       </div>
@@ -126,18 +126,18 @@
           <div class="row align-items-center justify-content-between">
             <div class="col-auto">
               <div class="vs-logo">
-                <a href="index.html"><img src="#" alt="logo"></a>
+                <a href="index.php"><img src="#" alt="logo"></a>
               </div>
             </div>
             <div class="col !align-items-center !align-items-lg-none  text-end text-xl-center">
               <nav class="main-menu  menu-style1 d-none d-lg-block">
                 <ul>
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="court.html">Courts</a></li>
-                  <li><a href="about.html">About</a></li>
+                  <li><a href="index.php">Home</a></li>
+                  <li><a href="court.php">Courts</a></li>
+                  <li><a href="about.php">About</a></li>
 
                   <li>
-                    <a href="contact.html">Contact</a>
+                    <a href="contact.php">Contact</a>
                   </li>
                   <div class="header-btns d-lg-inline-block d-none  d-xl-none">
                     <button class="sideCartToggler  "><i class="fal fa-shopping-bag"></i><span
@@ -147,7 +147,7 @@
               </nav>
 
               <div class="header-btns d-inline-block d-lg-none">
-                <button class="sideCartToggler   " onclick="location.href='cart.html'"><i
+                <button class="sideCartToggler   " onclick="location.href='cart.php'"><i
                     class="fal fa-shopping-bag"></i><span class="button-badge">2</span></button></a>
               </div>
 
@@ -184,7 +184,7 @@
                     comfort, designed to suit everyone from beginners to seasoned professionals. Choose from our clay
                     and hard courts, each offering a unique playing experience tailored to your style.
                   </p>
-                  <a href="about.html" class="vs-btn style4">Explore Facilities</a>
+                  <a href="about.php" class="vs-btn style4">Explore Facilities</a>
                 </div>
               </div>
               <div class="col-lg-6">
@@ -206,7 +206,7 @@
                   <p class="hero-text">Step onto our lush, grass-turfed football field and experience the joy of playing
                     in a professionally designed setting. Perfectly maintained for all weather conditions, our field is
                     suitable for training sessions, friendly matches, and official tournaments.</p>
-                  <a href="about.html" class="vs-btn style4">Read More</a>
+                  <a href="about.php" class="vs-btn style4">Read More</a>
                 </div>
               </div>
               <div class="col-lg-6">
@@ -228,7 +228,7 @@
                   <p class="hero-text">Discover the perfect setup for badminton enthusiasts in our state-of-the-art
                     indoor courts. Featuring anti-slip flooring, optimal lighting, and ample space for movement, our
                     courts are designed to enhance your playing experience. </p>
-                  <a href="about.html" class="vs-btn style4">Join an Event</a>
+                  <a href="about.php" class="vs-btn style4">Join an Event</a>
                 </div>
               </div>
               <div class="col-lg-6">
@@ -327,11 +327,11 @@
           <div class="category-tag"><a href="#"><i class="fas fa-tag"></i>Badminton Night</a></div>
         </div>
         <div class="blog-content" data-bg-src="assets/img/shape/blog-bg.png">
-          <a class="blog-date" href="blog-details.html"><i class="far fa-calendar-alt "></i> March 21, 2025</a>
-          <h3 class="blog-title"><a href="blog-details.html">Smash It Out at the Ultimate Badminton Showdown!</a></h3>
+          <a class="blog-date" href="blog-details.php"><i class="far fa-calendar-alt "></i> March 21, 2025</a>
+          <h3 class="blog-title"><a href="blog-details.php">Smash It Out at the Ultimate Badminton Showdown!</a></h3>
           <p class="blog-text">This is not just a game; it’s a celebration of skill, teamwork, and sportsmanship. Feel
             the adrenaline as the crowd cheers, the ball bounces, and your team battles for glory</p>
-          <a class="vs-btn style4" href="blog-details.html">Book Now</a>
+          <a class="vs-btn style4" href="blog-details.php">Book Now</a>
         </div>
       </div>
       <div class="blog-style4">
@@ -340,11 +340,11 @@
           <div class="category-tag"><a href="#"><i class="fas fa-tag"></i>Football League</a></div>
         </div>
         <div class="blog-content" data-bg-src="assets/img/shape/blog-bg.png">
-          <a class="blog-date" href="blog-details.html"><i class="far fa-calendar-alt "></i> July 21, 2025</a>
-          <h3 class="blog-title"><a href="blog-details.html">Celebrate Sportsmanship at the Annual Sports Fest!</a></h3>
+          <a class="blog-date" href="blog-details.php"><i class="far fa-calendar-alt "></i> July 21, 2025</a>
+          <h3 class="blog-title"><a href="blog-details.php">Celebrate Sportsmanship at the Annual Sports Fest!</a></h3>
           <p class="blog-text">Get ready for the most exciting football matches of the year! The Local Football League
             is back, bringing teams from all around the region to battle it out on the field.</p>
-          <a class="vs-btn style4" href="blog-details.html">Book Now</a>
+          <a class="vs-btn style4" href="blog-details.php">Book Now</a>
         </div>
       </div>
     </div>
@@ -382,7 +382,7 @@
         <div class="col-xl-3 col-lg-6 col-sm-6">
           <div class="package-style1">
             <div class="package-img">
-              <a href="tour-booking.html"><img class="w-100" src="assets/img/tours/tour-1-1.jpg"
+              <a href="tour-booking.php"><img class="w-100" src="assets/img/tours/tour-1-1.jpg"
                   alt="Package Image"></a>
             </div>
             <div class="package-content">
@@ -393,7 +393,7 @@
                 <i class="fas fa-star"></i>
                 <i class="far fa-star"></i>
               </div>
-              <h3 class="package-title"><a href="tour-booking.html">Basketball Court</a></h3>
+              <h3 class="package-title"><a href="tour-booking.php">Basketball Court</a></h3>
               <p class="package-text">Synthetic with anti-slip coating</p>
               <div class="package-meta">
                 <a href="#">(28m x 15m)</a>
@@ -401,7 +401,7 @@
               </div>
               <div class="package-footer">
                 <span class="package-price">Rs.3000</span>
-                <a href="tour-booking.html" class="vs-btn style4">View Details</a>
+                <a href="tour-booking.php" class="vs-btn style4">View Details</a>
               </div>
             </div>
           </div>
@@ -409,7 +409,7 @@
         <div class="col-xl-3 col-lg-6 col-sm-6">
           <div class="package-style1">
             <div class="package-img">
-              <a href="tour-booking.html"><img class="w-100" src="assets/img/tours/tour-1-2.jpg"
+              <a href="tour-booking.php"><img class="w-100" src="assets/img/tours/tour-1-2.jpg"
                   alt="Package Image"></a>
             </div>
             <div class="package-content">
@@ -420,7 +420,7 @@
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
               </div>
-              <h3 class="package-title"><a href="tour-booking.html">Basketball Court</a></h3>
+              <h3 class="package-title"><a href="tour-booking.php">Basketball Court</a></h3>
               <p class="package-text">Synthetic with anti-slip coating</p>
               <div class="package-meta">
                 <a href="#">(28m x 15m)</a>
@@ -428,7 +428,7 @@
               </div>
               <div class="package-footer">
                 <span class="package-price">Rs.3000</span>
-                <a href="tour-booking.html" class="vs-btn style4">View Details</a>
+                <a href="tour-booking.php" class="vs-btn style4">View Details</a>
               </div>
             </div>
           </div>
@@ -436,61 +436,7 @@
         <div class="col-xl-3 col-lg-6 col-sm-6">
           <div class="package-style1">
             <div class="package-img">
-              <a href="tour-booking.html"><img class="w-100" src="assets/img/tours/tour-1-3.jpg"
-                  alt="Package Image"></a>
-            </div>
-            <div class="package-content">
-              <div class="package-review">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="far fa-star"></i>
-              </div>
-              <h3 class="package-title"><a href="tour-booking.html">Basketball Court</a></h3>
-              <p class="package-text">Synthetic with anti-slip coating</p>
-              <div class="package-meta">
-                <a href="#">(28m x 15m)</a>
-                <a href="#">100 spectators</a>
-              </div>
-              <div class="package-footer">
-                <span class="package-price">Rs.3000</span>
-                <a href="tour-booking.html" class="vs-btn style4">View Details</a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-xl-3 col-lg-6 col-sm-6">
-          <div class="package-style1">
-            <div class="package-img">
-              <a href="tour-booking.html"><img class="w-100" src="assets/img/tours/tour-1-4.jpg"
-                  alt="Package Image"></a>
-            </div>
-            <div class="package-content">
-              <div class="package-review">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="far fa-star"></i>
-                <i class="far fa-star"></i>
-              </div>
-              <h3 class="package-title"><a href="tour-booking.html">Basketball Court</a></h3>
-              <p class="package-text">Synthetic with anti-slip coating</p>
-              <div class="package-meta">
-                <a href="#">(28m x 15m)</a>
-                <a href="#">100 spectators</a>
-              </div>
-              <div class="package-footer">
-                <span class="package-price">Rs.3000</span>
-                <a href="tour-booking.html" class="vs-btn style4">View Details</a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-xl-3 col-lg-6 col-sm-6">
-          <div class="package-style1">
-            <div class="package-img">
-              <a href="tour-booking.html"><img class="w-100" src="assets/img/tours/tour-1-5.jpg"
+              <a href="tour-booking.php"><img class="w-100" src="assets/img/tours/tour-1-3.jpg"
                   alt="Package Image"></a>
             </div>
             <div class="package-content">
@@ -501,7 +447,7 @@
                 <i class="fas fa-star"></i>
                 <i class="far fa-star"></i>
               </div>
-              <h3 class="package-title"><a href="tour-booking.html">Basketball Court</a></h3>
+              <h3 class="package-title"><a href="tour-booking.php">Basketball Court</a></h3>
               <p class="package-text">Synthetic with anti-slip coating</p>
               <div class="package-meta">
                 <a href="#">(28m x 15m)</a>
@@ -509,7 +455,7 @@
               </div>
               <div class="package-footer">
                 <span class="package-price">Rs.3000</span>
-                <a href="tour-booking.html" class="vs-btn style4">View Details</a>
+                <a href="tour-booking.php" class="vs-btn style4">View Details</a>
               </div>
             </div>
           </div>
@@ -517,7 +463,61 @@
         <div class="col-xl-3 col-lg-6 col-sm-6">
           <div class="package-style1">
             <div class="package-img">
-              <a href="tour-booking.html"><img class="w-100" src="assets/img/tours/tour-1-6.jpg"
+              <a href="tour-booking.php"><img class="w-100" src="assets/img/tours/tour-1-4.jpg"
+                  alt="Package Image"></a>
+            </div>
+            <div class="package-content">
+              <div class="package-review">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+                <i class="far fa-star"></i>
+              </div>
+              <h3 class="package-title"><a href="tour-booking.php">Basketball Court</a></h3>
+              <p class="package-text">Synthetic with anti-slip coating</p>
+              <div class="package-meta">
+                <a href="#">(28m x 15m)</a>
+                <a href="#">100 spectators</a>
+              </div>
+              <div class="package-footer">
+                <span class="package-price">Rs.3000</span>
+                <a href="tour-booking.php" class="vs-btn style4">View Details</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-3 col-lg-6 col-sm-6">
+          <div class="package-style1">
+            <div class="package-img">
+              <a href="tour-booking.php"><img class="w-100" src="assets/img/tours/tour-1-5.jpg"
+                  alt="Package Image"></a>
+            </div>
+            <div class="package-content">
+              <div class="package-review">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+              </div>
+              <h3 class="package-title"><a href="tour-booking.php">Basketball Court</a></h3>
+              <p class="package-text">Synthetic with anti-slip coating</p>
+              <div class="package-meta">
+                <a href="#">(28m x 15m)</a>
+                <a href="#">100 spectators</a>
+              </div>
+              <div class="package-footer">
+                <span class="package-price">Rs.3000</span>
+                <a href="tour-booking.php" class="vs-btn style4">View Details</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-3 col-lg-6 col-sm-6">
+          <div class="package-style1">
+            <div class="package-img">
+              <a href="tour-booking.php"><img class="w-100" src="assets/img/tours/tour-1-6.jpg"
                   alt="Package Image"></a>
             </div>
             <div class="package-content">
@@ -528,7 +528,7 @@
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
               </div>
-              <h3 class="package-title"><a href="tour-booking.html">Basketball Court</a></h3>
+              <h3 class="package-title"><a href="tour-booking.php">Basketball Court</a></h3>
               <p class="package-text">Synthetic with anti-slip coating</p>
               <div class="package-meta">
                 <a href="#">(28m x 15m)</a>
@@ -536,14 +536,14 @@
               </div>
               <div class="package-footer">
                 <span class="package-price">Rs.3000</span>
-                <a href="tour-booking.html" class="vs-btn style4">View Details</a>
+                <a href="tour-booking.php" class="vs-btn style4">View Details</a>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div class="text-center pt-lg-2">
-        <a href="tours.html" class="vs-btn">View More</a>
+        <a href="tours.php" class="vs-btn">View More</a>
       </div>
     </div>
   </section>
@@ -668,7 +668,7 @@
             <h2 class="sec-title h1">Get Special Offer</h2>
             <p class="sec-text">Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget
               consectetur sed, convgallis at tellus.</p>
-            <a href="contact.html" class="vs-btn style2">View More</a>
+            <a href="contact.php" class="vs-btn style2">View More</a>
           </div>
         </div>
         <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
@@ -719,7 +719,7 @@
         data-md-slide-show="2" data-sm-slide-show="1">
         <div class="col-xl-4">
           <div class="destination-style1">
-            <a href="destination-details.html"> <img src="assets/img/destinations/destinations-1-1.jpg"
+            <a href="destination-details.php"> <img src="assets/img/destinations/destinations-1-1.jpg"
                 alt="destination image"></a>
             <span class="destination-price">$259</span>
             <div class="destination-info">
@@ -730,7 +730,7 @@
         </div>
         <div class="col-xl-4">
           <div class="destination-style1">
-            <a href="destination-details.html"> <img src="assets/img/destinations/destinations-1-2.jpg"
+            <a href="destination-details.php"> <img src="assets/img/destinations/destinations-1-2.jpg"
                 alt="destination image"></a>
             <span class="destination-price">$369</span>
             <div class="destination-info">
@@ -741,7 +741,7 @@
         </div>
         <div class="col-xl-4">
           <div class="destination-style1">
-            <a href="destination-details.html"> <img src="assets/img/destinations/destinations-1-3.jpg"
+            <a href="destination-details.php"> <img src="assets/img/destinations/destinations-1-3.jpg"
                 alt="destination image"></a>
             <span class="destination-price">$299</span>
             <div class="destination-info">
@@ -752,7 +752,7 @@
         </div>
         <div class="col-xl-4">
           <div class="destination-style1">
-            <a href="destination-details.html">
+            <a href="destination-details.php">
               <img src="assets/img/destinations/destinations-1-8.jpg" alt="destination image" /></a>
             <span class="destination-price">$158</span>
             <div class="destination-info">
@@ -780,7 +780,7 @@
             <h2 class="sec-title h1">What’s Our Client’s Words</h2>
             <p class="sec-text">Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget
               consectetur sed, convgallis at tellus.</p>
-            <a href="contact.html" class="vs-btn style3">View More</a>
+            <a href="contact.php" class="vs-btn style3">View More</a>
           </div>
         </div>
         <div class="col-xxl-6 col-xl-7">
@@ -905,15 +905,15 @@
         <div class="col-xl-4">
           <div class="vs-blog blog-style3">
             <div class="blog-img">
-              <a href="blog-details.html"><img src="assets/img/blog/blog-h-1-1.jpg" alt="blog image"></a>
+              <a href="blog-details.php"><img src="assets/img/blog/blog-h-1-1.jpg" alt="blog image"></a>
             </div>
             <div class="blog-content">
-              <h2 class="blog-title"><a href="blog-details.html">We Are Giving Amazing Experience For VIP</a></h2>
+              <h2 class="blog-title"><a href="blog-details.php">We Are Giving Amazing Experience For VIP</a></h2>
               <p class="blog-text">Lorem ipsum dolor sit amet, adipiscfvdg fgjnving consectetur adipiscing elit. dolor
                 sit amet.</p>
               <div class="blog-bottom">
-                <a class="blog-date" href="blog-details.html"><i class="fas fa-calendar-alt"></i> July 22, 2023</a>
-                <a class="vs-btn style4" href="blog-details.html">Read More <i class="fal fa-arrow-right"></i></a>
+                <a class="blog-date" href="blog-details.php"><i class="fas fa-calendar-alt"></i> July 22, 2023</a>
+                <a class="vs-btn style4" href="blog-details.php">Read More <i class="fal fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -921,16 +921,16 @@
         <div class="col-xl-4">
           <div class="vs-blog blog-style3">
             <div class="blog-img">
-              <a href="blog-details.html"><img src="assets/img/blog/blog-h-1-2.jpg" alt="blog image"></a>
+              <a href="blog-details.php"><img src="assets/img/blog/blog-h-1-2.jpg" alt="blog image"></a>
             </div>
             <div class="blog-content">
-              <h2 class="blog-title"><a href="blog-details.html">Uncharted Territories Are Exploring The Unknown</a>
+              <h2 class="blog-title"><a href="blog-details.php">Uncharted Territories Are Exploring The Unknown</a>
               </h2>
               <p class="blog-text">Lorem ipsum dolor sit amet, adipiscfvdg fgjnving consectetur adipiscing elit. dolor
                 sit amet.</p>
               <div class="blog-bottom">
-                <a class="blog-date" href="blog-details.html"><i class="fas fa-calendar-alt"></i> July 24, 2023</a>
-                <a class="vs-btn style4" href="blog-details.html">Read More <i class="fal fa-arrow-right"></i></a>
+                <a class="blog-date" href="blog-details.php"><i class="fas fa-calendar-alt"></i> July 24, 2023</a>
+                <a class="vs-btn style4" href="blog-details.php">Read More <i class="fal fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -938,16 +938,16 @@
         <div class="col-xl-4">
           <div class="vs-blog blog-style3">
             <div class="blog-img">
-              <a href="blog-details.html"><img src="assets/img/blog/blog-h-1-3.jpg" alt="blog image"></a>
+              <a href="blog-details.php"><img src="assets/img/blog/blog-h-1-3.jpg" alt="blog image"></a>
             </div>
             <div class="blog-content">
-              <h2 class="blog-title"><a href="blog-details.html">Roam And Revel Captivating Destinations Explored</a>
+              <h2 class="blog-title"><a href="blog-details.php">Roam And Revel Captivating Destinations Explored</a>
               </h2>
               <p class="blog-text">Lorem ipsum dolor sit amet, adipiscfvdg fgjnving consectetur adipiscing elit. dolor
                 sit amet.</p>
               <div class="blog-bottom">
-                <a class="blog-date" href="blog-details.html"><i class="fas fa-calendar-alt"></i> Aug 21, 2023</a>
-                <a class="vs-btn style4" href="blog-details.html">Read More <i class="fal fa-arrow-right"></i></a>
+                <a class="blog-date" href="blog-details.php"><i class="fas fa-calendar-alt"></i> Aug 21, 2023</a>
+                <a class="vs-btn style4" href="blog-details.php">Read More <i class="fal fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -955,23 +955,23 @@
         <div class="col-xl-4">
           <div class="vs-blog blog-style3">
             <div class="blog-img">
-              <a href="blog-details.html"><img src="assets/img/blog/blog-h-1-4.jpg" alt="blog image"></a>
+              <a href="blog-details.php"><img src="assets/img/blog/blog-h-1-4.jpg" alt="blog image"></a>
             </div>
             <div class="blog-content">
-              <h2 class="blog-title"><a href="blog-details.html">Voyage vignettes adventures beyond the horizon</a>
+              <h2 class="blog-title"><a href="blog-details.php">Voyage vignettes adventures beyond the horizon</a>
               </h2>
               <p class="blog-text">Lorem ipsum dolor sit amet, adipiscfvdg fgjnving consectetur adipiscing elit. dolor
                 sit amet.</p>
               <div class="blog-bottom">
-                <a class="blog-date" href="blog-details.html"><i class="fas fa-calendar-alt"></i> Sep 21, 2023</a>
-                <a class="vs-btn style4" href="blog-details.html">Read More <i class="fal fa-arrow-right"></i></a>
+                <a class="blog-date" href="blog-details.php"><i class="fas fa-calendar-alt"></i> Sep 21, 2023</a>
+                <a class="vs-btn style4" href="blog-details.php">Read More <i class="fal fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div class="text-center mb-30 wow fadeInUp pt-lg-2" data-wow-delay="0.7s">
-        <a href="blog-grid.html" class="vs-btn">View More</a>
+        <a href="blog-grid.php" class="vs-btn">View More</a>
       </div>
     </div>
   </section>
@@ -992,7 +992,7 @@
               <div class="cta-content">
                 <h2 class="cta-title">Ready to get started?</h2>
                 <p class="cta-text">It only takes a few minutes to register your account.</p>
-                <a href="sign-up.html" class="vs-btn style2">Open An Account</a>
+                <a href="sign-up.php" class="vs-btn style2">Open An Account</a>
               </div>
             </div>
             <div class="col-md-5 col-sm-6">
@@ -1011,7 +1011,7 @@
             <div class="widget footer-widget">
               <div class="vs-widget-about">
                 <div class="footer-logo">
-                  <a href="index.html"><img src="assets/img/white-logo.sv" alt="Fruitsel" class="logo" /></a>
+                  <a href="index.php"><img src="assets/img/white-logo.sv" alt="Fruitsel" class="logo" /></a>
                 </div>
                 <p class="footer-text">Curabitur aliquet quam id dui bandit posuere blandit. Vivamfdsus magna justo
                   blandit aliquet.</p>
@@ -1029,11 +1029,11 @@
               <h3 class="widget_title">Useful Links</h3>
               <div class="menu-all-pages-container">
                 <ul class="menu">
-                  <li><a href="index.html"><i class="far fa-angle-right"></i> Home</a></li>
+                  <li><a href="index.php"><i class="far fa-angle-right"></i> Home</a></li>
 
-                  <li><a href="court.html"><i class="far fa-angle-right"></i> Courts</a></li>
-                  <li><a href="about.html"><i class="far fa-angle-right"></i> About</a></li>
-                  <li><a href="contact.html"><i class="far fa-angle-right"></i> Contact</a></li>
+                  <li><a href="court.php"><i class="far fa-angle-right"></i> Courts</a></li>
+                  <li><a href="about.php"><i class="far fa-angle-right"></i> About</a></li>
+                  <li><a href="contact.php"><i class="far fa-angle-right"></i> Contact</a></li>
                 </ul>
               </div>
             </div>
@@ -1081,7 +1081,7 @@
         <div class="row justify-content-between align-items-center">
           <div class="col-lg-auto">
             <p class="copyright-text">Copyright <i class="fal fa-copyright"></i>
-              <script>document.write(new Date().getFullYear())</script> <a href="index.html"> Uff</a>.
+              <script>document.write(new Date().getFullYear())</script> <a href="index.php"> Uff</a>.
               All Rights Reserved By <a href="https://themeforest.net/user/vecuro">Uff</a>
             </p>
           </div>
@@ -1109,7 +1109,7 @@
       <div class="widget">
         <div class="vs-widget-about">
           <div class="footer-logo">
-            <a href="index.html"><img src="#" alt="Logo"></a>
+            <a href="index.php"><img src="#" alt="Logo"></a>
           </div>
           <p class="footer-text">
             Ut tellus dolor, dapibus eget, elementum ifend cursus eleifend,
@@ -1129,43 +1129,43 @@
         <div class="recent-post-wrap">
           <div class="recent-post">
             <div class="media-img">
-              <a href="blog-details.html"><img src="assets/img/blog/recent-post1.jpg" alt="Blog Image"></a>
+              <a href="blog-details.php"><img src="assets/img/blog/recent-post1.jpg" alt="Blog Image"></a>
             </div>
             <div class="media-body">
               <div class="recent-post-meta">
                 <i class="fal fa-calendar-alt"></i>
-                <a href="blog.html">December 15, 2022</a>
+                <a href="blog.php">December 15, 2022</a>
               </div>
               <h4 class="post-title">
-                <a class="text-inherit" href="blog-details.html">We are Giving Amazing Tour for VIP</a>
+                <a class="text-inherit" href="blog-details.php">We are Giving Amazing Tour for VIP</a>
               </h4>
             </div>
           </div>
           <div class="recent-post">
             <div class="media-img">
-              <a href="blog-details.html"><img src="assets/img/blog/recent-post2.jpg" alt="Blog Image"></a>
+              <a href="blog-details.php"><img src="assets/img/blog/recent-post2.jpg" alt="Blog Image"></a>
             </div>
             <div class="media-body">
               <div class="recent-post-meta">
                 <i class="fal fa-calendar-alt"></i>
-                <a href="blog.html">March 13, 2022</a>
+                <a href="blog.php">March 13, 2022</a>
               </div>
               <h4 class="post-title">
-                <a class="text-inherit" href="blog-details.html">The journey journal chronicles of a wandering soul</a>
+                <a class="text-inherit" href="blog-details.php">The journey journal chronicles of a wandering soul</a>
               </h4>
             </div>
           </div>
           <div class="recent-post">
             <div class="media-img">
-              <a href="blog-details.html"><img src="assets/img/blog/recent-post3.jpg" alt="Blog Image"></a>
+              <a href="blog-details.php"><img src="assets/img/blog/recent-post3.jpg" alt="Blog Image"></a>
             </div>
             <div class="media-body">
               <div class="recent-post-meta">
                 <i class="fal fa-calendar-alt"></i>
-                <a href="blog.html">Augest 23, 2022</a>
+                <a href="blog.php">Augest 23, 2022</a>
               </div>
               <h4 class="post-title">
-                <a class="text-inherit" href="blog-details.html">Roam And Revel captivating at tellus.</a>
+                <a class="text-inherit" href="blog-details.php">Roam And Revel captivating at tellus.</a>
               </h4>
             </div>
           </div>
@@ -1185,14 +1185,14 @@
         <div class="widget_shopping_cart_content">
           <ul class="cart_list">
             <li class="mini_cart_item">
-              <a href="shop.html" class="remove"><i class="fal fa-trash-alt"></i></a> <a href="shop.html"><img
+              <a href="shop.php" class="remove"><i class="fal fa-trash-alt"></i></a> <a href="shop.php"><img
                   src="assets/img/products/p-1-1.png" alt="Cart Image" />Standard Futsal Court</a>
               <span class="quantity">
                 1 × <span class="amount"><span>Rs.</span>3000.00</span>
               </span>
             </li>
             <li class="mini_cart_item">
-              <a href="shop.html" class="remove"><i class="fal fa-trash-alt"></i></a> <a href="shop.html"><img
+              <a href="shop.php" class="remove"><i class="fal fa-trash-alt"></i></a> <a href="shop.php"><img
                   src="assets/img/products/p-1-2.png" alt="Cart Image" />All-Weather Futsal Court</a>
               <span class="quantity">
                 1 × <span class="amount"><span>Rs.</span>8500.00</span>
@@ -1203,8 +1203,8 @@
             <strong>Subtotal:</strong> <span class="amount"><span>Rs.</span>11500.00</span>
           </div>
           <div class="buttons">
-            <a href="cart.html" class="vs-btn style4">View cart</a>
-            <a href="checkout.html" class="vs-btn style4">Checkout</a>
+            <a href="cart.php" class="vs-btn style4">View cart</a>
+            <a href="checkout.php" class="vs-btn style4">Checkout</a>
           </div>
         </div>
       </div>

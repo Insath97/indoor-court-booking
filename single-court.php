@@ -55,25 +55,25 @@
     <div class="vs-menu-area text-center">
       <button class="vs-menu-toggle"><i class="fal fa-times"></i></button>
       <div class="mobile-logo">
-        <a href="index.html"><img src="#" alt="Court-booking"></a>
+        <a href="index.php"><img src="#" alt="Court-booking"></a>
       </div>
       <div class="vs-mobile-menu">
         <ul>
           <li class="">
-            <a href="index.html">Home</a>
+            <a href="index.php">Home</a>
           </li>
           <li class="">
-            <a href="about.html">About Us</a>
+            <a href="about.php">About Us</a>
 
           </li>
           <li class="">
-            <a href="court.html">Courts</a>
+            <a href="court.php">Courts</a>
           </li>
 
 
 
           <li>
-            <a href="contact.html">Contact</a>
+            <a href="contact.php">Contact</a>
           </li>
         </ul>
       </div>
@@ -91,7 +91,7 @@
       <div class="widget">
         <div class="vs-widget-about">
           <div class="footer-logo">
-            <a href="index.html"><img src="#" alt="Ufff"></a>
+            <a href="index.php"><img src="#" alt="Ufff"></a>
           </div>
           <p class="footer-text">
             Ut tellus dolor, dapibus eget, elementum ifend cursus eleifend,
@@ -111,43 +111,43 @@
         <div class="recent-post-wrap">
           <div class="recent-post">
             <div class="media-img">
-              <a href="blog-details.html"><img src="assets/img/blog/recent-post1.jpg" alt="Blog Image"></a>
+              <a href="blog-details.php"><img src="assets/img/blog/recent-post1.jpg" alt="Blog Image"></a>
             </div>
             <div class="media-body">
               <div class="recent-post-meta">
                 <i class="fal fa-calendar-alt"></i>
-                <a href="blog.html">December 15, 2022</a>
+                <a href="blog.php">December 15, 2022</a>
               </div>
               <h4 class="post-title">
-                <a class="text-inherit" href="blog-details.html">We are Giving Amazing Match for Players</a>
+                <a class="text-inherit" href="blog-details.php">We are Giving Amazing Match for Players</a>
               </h4>
             </div>
           </div>
           <div class="recent-post">
             <div class="media-img">
-              <a href="blog-details.html"><img src="assets/img/blog/recent-post2.jpg" alt="Blog Image"></a>
+              <a href="blog-details.php"><img src="assets/img/blog/recent-post2.jpg" alt="Blog Image"></a>
             </div>
             <div class="media-body">
               <div class="recent-post-meta">
                 <i class="fal fa-calendar-alt"></i>
-                <a href="blog.html">March 13, 2022</a>
+                <a href="blog.php">March 13, 2022</a>
               </div>
               <h4 class="post-title">
-                <a class="text-inherit" href="blog-details.html">The journey journal chronicles of a wandering soul</a>
+                <a class="text-inherit" href="blog-details.php">The journey journal chronicles of a wandering soul</a>
               </h4>
             </div>
           </div>
           <div class="recent-post">
             <div class="media-img">
-              <a href="blog-details.html"><img src="assets/img/blog/recent-post3.jpg" alt="Blog Image"></a>
+              <a href="blog-details.php"><img src="assets/img/blog/recent-post3.jpg" alt="Blog Image"></a>
             </div>
             <div class="media-body">
               <div class="recent-post-meta">
                 <i class="fal fa-calendar-alt"></i>
-                <a href="blog.html">Augest 23, 2022</a>
+                <a href="blog.php">Augest 23, 2022</a>
               </div>
               <h4 class="post-title">
-                <a class="text-inherit" href="blog-details.html">Roam And Revel captivating at tellus.</a>
+                <a class="text-inherit" href="blog-details.php">Roam And Revel captivating at tellus.</a>
               </h4>
             </div>
           </div>
@@ -167,14 +167,14 @@
         <div class="widget_shopping_cart_content">
           <ul class="cart_list">
             <li class="mini_cart_item">
-              <a href="shop.html" class="remove"><i class="fal fa-trash-alt"></i></a> <a href="shop.html"><img
+              <a href="shop.php" class="remove"><i class="fal fa-trash-alt"></i></a> <a href="shop.php"><img
                   src="assets/img/products/p-1-1.png" alt="Cart Image" />Standard Futsal Court</a>
               <span class="quantity">
                 1 × <span class="amount"><span>Rs.</span>3000.00</span>
               </span>
             </li>
             <li class="mini_cart_item">
-              <a href="shop.html" class="remove"><i class="fal fa-trash-alt"></i></a> <a href="shop.html"><img
+              <a href="shop.php" class="remove"><i class="fal fa-trash-alt"></i></a> <a href="shop.php"><img
                   src="assets/img/products/p-1-2.png" alt="Cart Image" />All-Weather Futsal Court</a>
               <span class="quantity">
                 1 × <span class="amount"><span>Rs.</span>8500.00</span>
@@ -185,8 +185,8 @@
             <strong>Subtotal:</strong> <span class="amount"><span>Rs.</span>11500.00</span>
           </div>
           <div class="buttons">
-            <a href="cart.html" class="vs-btn style4">View cart</a>
-            <a href="checkout.html" class="vs-btn style4">Checkout</a>
+            <a href="cart.php" class="vs-btn style4">View cart</a>
+            <a href="checkout.php" class="vs-btn style4">Checkout</a>
           </div>
         </div>
       </div>
@@ -229,7 +229,7 @@
           <div class="col-auto d-flex ">
 
 
-            <a class="user-btn" href="signin.html"><i class="far fa-user-circle"></i></a>
+            <a class="user-btn" href="signin.php"><i class="far fa-user-circle"></i></a>
           </div>
         </div>
       </div>
@@ -240,18 +240,18 @@
           <div class="row align-items-center justify-content-between">
             <div class="col-auto">
               <div class="vs-logo">
-                <a href="index.html"><img src="#" alt="logo"></a>
+                <a href="index.php"><img src="#" alt="logo"></a>
               </div>
             </div>
             <div class="col !align-items-center !align-items-lg-none  text-end text-xl-center">
               <nav class="main-menu  menu-style1 d-none d-lg-block">
                 <ul>
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="court.html">Courts</a></li>
-                  <li><a href="about.html">About</a></li>
+                  <li><a href="index.php">Home</a></li>
+                  <li><a href="court.php">Courts</a></li>
+                  <li><a href="about.php">About</a></li>
 
                   <li>
-                    <a href="contact.html">Contact</a>
+                    <a href="contact.php">Contact</a>
                   </li>
                   <div class="header-btns d-lg-inline-block d-none  d-xl-none">
                     <button class="sideCartToggler  "><i class="fal fa-shopping-bag"></i><span
@@ -261,7 +261,7 @@
               </nav>
 
               <div class="header-btns d-inline-block d-lg-none">
-                <button class="sideCartToggler   " onclick="location.href='cart.html'"><i
+                <button class="sideCartToggler   " onclick="location.href='cart.php'"><i
                     class="fal fa-shopping-bag"></i><span class="button-badge">2</span></button></a>
               </div>
 
@@ -293,7 +293,7 @@
         <h1 class="breadcumb-title">Single Court Booking</h1>
         <div class="breadcumb-menu-wrap">
           <ul class="breadcumb-menu">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>Tours</li>
             <li>Standard Futsal Court</li>
           </ul>
@@ -875,7 +875,7 @@
               <div class="cta-content">
                 <h2 class="cta-title">Ready to get started?</h2>
                 <p class="cta-text">It only takes a few minutes to register your account.</p>
-                <a href="sign-up.html" class="vs-btn style2">Open An Account</a>
+                <a href="sign-up.php" class="vs-btn style2">Open An Account</a>
               </div>
             </div>
             <div class="col-md-5 col-sm-6">
@@ -894,7 +894,7 @@
             <div class="widget footer-widget">
               <div class="vs-widget-about">
                 <div class="footer-logo">
-                  <a href="index.html"><img src="assets/img/white-logo.sv" alt="Fruitsel" class="logo" /></a>
+                  <a href="index.php"><img src="assets/img/white-logo.sv" alt="Fruitsel" class="logo" /></a>
                 </div>
                 <p class="footer-text">Curabitur aliquet quam id dui bandit posuere blandit. Vivamfdsus magna justo
                   blandit aliquet.</p>
@@ -912,11 +912,11 @@
               <h3 class="widget_title">Useful Links</h3>
               <div class="menu-all-pages-container">
                 <ul class="menu">
-                  <li><a href="index.html"><i class="far fa-angle-right"></i> Home</a></li>
+                  <li><a href="index.php"><i class="far fa-angle-right"></i> Home</a></li>
 
-                  <li><a href="court.html"><i class="far fa-angle-right"></i> Courts</a></li>
-                  <li><a href="about.html"><i class="far fa-angle-right"></i> About</a></li>
-                  <li><a href="contact.html"><i class="far fa-angle-right"></i> Contact</a></li>
+                  <li><a href="court.php"><i class="far fa-angle-right"></i> Courts</a></li>
+                  <li><a href="about.php"><i class="far fa-angle-right"></i> About</a></li>
+                  <li><a href="contact.php"><i class="far fa-angle-right"></i> Contact</a></li>
                 </ul>
               </div>
             </div>
@@ -964,7 +964,7 @@
         <div class="row justify-content-between align-items-center">
           <div class="col-lg-auto">
             <p class="copyright-text">Copyright <i class="fal fa-copyright"></i>
-              <script>document.write(new Date().getFullYear())</script> <a href="index.html"> Uff</a>.
+              <script>document.write(new Date().getFullYear())</script> <a href="index.php"> Uff</a>.
               All Rights Reserved By <a href="https://themeforest.net/user/vecuro">Uff</a>
             </p>
           </div>

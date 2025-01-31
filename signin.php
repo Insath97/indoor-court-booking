@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Sign Up </title>
+  <title>Sign -in</title>
   <meta name="author" content="vecuro">
 
   <meta name="robots" content="INDEX,FOLLOW">
@@ -13,7 +13,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Favicons - Place favicon.ico in the root directory -->
-  <link rel="icon" type="image/png" href="assets/img/favicons/favicon.png">
+  <link rel="icon" type="image/png" href="#">
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="theme-color" content="#ffffff">
 
@@ -53,30 +53,26 @@
       <div class="row justify-content-center">
         <div class="col-lg-6 ">
           <form action="#" class="signup-form bg-smoke">
-            <h2 class="form-title text-center mb-lg-35">Create an account</h2>
+            <h2 class="form-title text-center mb-lg-35">Sign In</h2>
             <div class="form-group">
-              <label for="signUpUserName" class="sr-only">Username</label>
-              <input type="text" class="form-control" placeholder="Username*" id="signUpUserName" name="signUpUserName"
-                required>
+              <label for="loginUserId" class="sr-only">Username or email address*</label>
+              <input type="text" class="form-control" placeholder="Username or email address*" id="loginUserId"
+                name="loginUserId" required>
             </div>
             <div class="form-group">
-              <label for="signUpUserEmail" class="sr-only">Email address</label>
-              <input type="text" class="form-control" placeholder="Email address*" id="signUpUserEmail"
-                name="signUpUserEmail" required>
+              <label for="loginUserPass" class="sr-only">Password*</label>
+              <input type="password" class="form-control" placeholder="Password*" id="loginUserPass"
+                name="loginUserPass" required>
             </div>
             <div class="form-group">
-              <label for="signUpUserPass" class="sr-only">Password</label>
-              <input type="password" class="form-control" placeholder="Password*" id="signUpUserPass"
-                name="signUpUserPass" required>
-            </div>
-            <div class="form-group">
-              <input type="checkbox" name="signUpTerms" id="signUpTerms">
-              <label for="signUpTerms">I have read and agree to the website terms and conditions</label>
+              <input type="checkbox" name="loginRemember" id="loginRemember">
+              <label for="loginRemember">Remember Me</label>
             </div>
             <div class="form-group mb-0 text-center">
-              <button class="vs-btn w-100 style4" type="submit">Register</button>
-              <div class="bottom-links link-inherit pt-3">
-                <span>Already have account? <a class="text-theme" href="signin.html">Sign in</a></span>
+              <button class="vs-btn mask-style1 w-100 style4" type="submit">Login</button>
+              <div class="bottom-links link-inherit d-md-flex justify-content-between mt-3">
+                <a href="#" class="recovery-link mb-2 mb-md-0">Forgot your password?</a>
+                <a href="sign-up.php">Or Create Account</a>
               </div>
             </div>
           </form>
@@ -91,7 +87,6 @@
   <!--********************************
   Code Ends Here 
 	******************************** -->
-
 
 
   <!--==============================

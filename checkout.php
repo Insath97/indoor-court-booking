@@ -4,23 +4,20 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>
-    Court Booking
-  </title>
+  <title> Checkout</title>
   <meta name="author" content="vecuro">
-  <meta name="description" content="Court -Booking">
-  <meta name="keywords" content="Court -Booking">
+
   <meta name="robots" content="INDEX,FOLLOW">
 
   <!-- Mobile Specific Metas -->
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Favicons - Place favicon.ico in the root directory -->
-  <link rel="icon" type="image/png" href="#">
+  <link rel="icon" type="image/png" href="assets/img/favicons/favicon.png">
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="theme-color" content="#ffffff">
 
-  <!--============================== 
+  <!--==============================
 	  Google Fonts
 	============================== -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -35,8 +32,6 @@
   <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
   <!-- Fontawesome Icon -->
   <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
-  <!-- jquery Ui CSS -->
-  <link rel="stylesheet" href="assets/css/jquery-ui.min.css" />
   <!-- Magnific Popup -->
   <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
   <!-- Slick Slider -->
@@ -57,25 +52,25 @@
     <div class="vs-menu-area text-center">
       <button class="vs-menu-toggle"><i class="fal fa-times"></i></button>
       <div class="mobile-logo">
-        <a href="index.html"><img src="#" alt="Court-booking"></a>
+        <a href="index.php"><img src="#" alt="Court-booking"></a>
       </div>
       <div class="vs-mobile-menu">
         <ul>
           <li class="">
-            <a href="index.html">Home</a>
+            <a href="index.php">Home</a>
           </li>
           <li class="">
-            <a href="about.html">About Us</a>
+            <a href="about.php">About Us</a>
 
           </li>
           <li class="">
-            <a href="court.html">Courts</a>
+            <a href="court.php">Courts</a>
           </li>
 
 
 
           <li>
-            <a href="contact.html">Contact</a>
+            <a href="contact.php">Contact</a>
           </li>
         </ul>
       </div>
@@ -93,7 +88,7 @@
       <div class="widget">
         <div class="vs-widget-about">
           <div class="footer-logo">
-            <a href="index.html"><img src="#" alt="Uffff"></a>
+            <a href="index.php"><img src="#" alt="Ufff"></a>
           </div>
           <p class="footer-text">
             Ut tellus dolor, dapibus eget, elementum ifend cursus eleifend,
@@ -109,47 +104,47 @@
         </div>
       </div>
       <div class="widget">
-        <h3 class="widget_title">Recent Articles</h3>
+        <h3 class="widget_title">Recent News</h3>
         <div class="recent-post-wrap">
           <div class="recent-post">
             <div class="media-img">
-              <a href="blog-details.html"><img src="assets/img/blog/recent-post1.jpg" alt="Blog Image"></a>
+              <a href="blog-details.php"><img src="assets/img/blog/recent-post1.jpg" alt="Blog Image"></a>
             </div>
             <div class="media-body">
               <div class="recent-post-meta">
                 <i class="fal fa-calendar-alt"></i>
-                <a href="blog.html">December 15, 2025</a>
+                <a href="blog.php">December 15, 2022</a>
               </div>
               <h4 class="post-title">
-                <a class="text-inherit" href="blog-details.html">We are Giving Amazing Court</a>
+                <a class="text-inherit" href="blog-details.php">We are Giving Amazing Match for Players</a>
               </h4>
             </div>
           </div>
           <div class="recent-post">
             <div class="media-img">
-              <a href="blog-details.html"><img src="assets/img/blog/recent-post2.jpg" alt="Blog Image"></a>
+              <a href="blog-details.php"><img src="assets/img/blog/recent-post2.jpg" alt="Blog Image"></a>
             </div>
             <div class="media-body">
               <div class="recent-post-meta">
                 <i class="fal fa-calendar-alt"></i>
-                <a href="blog.html">March 13, 2022</a>
+                <a href="blog.php">March 13, 2022</a>
               </div>
               <h4 class="post-title">
-                <a class="text-inherit" href="blog-details.html">The journey journal chronicles of a wandering soul</a>
+                <a class="text-inherit" href="blog-details.php">The journey journal chronicles of a wandering soul</a>
               </h4>
             </div>
           </div>
           <div class="recent-post">
             <div class="media-img">
-              <a href="blog-details.html"><img src="assets/img/blog/recent-post3.jpg" alt="Blog Image"></a>
+              <a href="blog-details.php"><img src="assets/img/blog/recent-post3.jpg" alt="Blog Image"></a>
             </div>
             <div class="media-body">
               <div class="recent-post-meta">
                 <i class="fal fa-calendar-alt"></i>
-                <a href="blog.html">Augest 23, 2022</a>
+                <a href="blog.php">Augest 23, 2022</a>
               </div>
               <h4 class="post-title">
-                <a class="text-inherit" href="blog-details.html">Roam And Revel captivating at tellus.</a>
+                <a class="text-inherit" href="blog-details.php">Roam And Revel captivating at tellus.</a>
               </h4>
             </div>
           </div>
@@ -169,14 +164,14 @@
         <div class="widget_shopping_cart_content">
           <ul class="cart_list">
             <li class="mini_cart_item">
-              <a href="shop.html" class="remove"><i class="fal fa-trash-alt"></i></a> <a href="shop.html"><img
+              <a href="shop.php" class="remove"><i class="fal fa-trash-alt"></i></a> <a href="shop.php"><img
                   src="assets/img/products/p-1-1.png" alt="Cart Image" />Standard Futsal Court</a>
               <span class="quantity">
                 1 × <span class="amount"><span>Rs.</span>3000.00</span>
               </span>
             </li>
             <li class="mini_cart_item">
-              <a href="shop.html" class="remove"><i class="fal fa-trash-alt"></i></a> <a href="shop.html"><img
+              <a href="shop.php" class="remove"><i class="fal fa-trash-alt"></i></a> <a href="shop.php"><img
                   src="assets/img/products/p-1-2.png" alt="Cart Image" />All-Weather Futsal Court</a>
               <span class="quantity">
                 1 × <span class="amount"><span>Rs.</span>8500.00</span>
@@ -187,8 +182,8 @@
             <strong>Subtotal:</strong> <span class="amount"><span>Rs.</span>11500.00</span>
           </div>
           <div class="buttons">
-            <a href="cart.html" class="vs-btn style4">View cart</a>
-            <a href="checkout.html" class="vs-btn style4">Checkout</a>
+            <a href="cart.php" class="vs-btn style4">View cart</a>
+            <a href="checkout.php" class="vs-btn style4">Checkout</a>
           </div>
         </div>
       </div>
@@ -215,9 +210,9 @@
         <div class="row justify-content-between align-items-center">
           <div class="col d-none d-lg-block">
             <ul class="header-contact">
-              <li><i class="fas fa-envelope"></i> <a href="mailto:info@travolo.com">info@travolo.com</a>
+              <li><i class="fas fa-envelope"></i> <a href="mailto:info@hello.com">info@inzeedo.com</a>
               </li>
-              <li><i class="fas fa-phone-alt"></i> <a href="tel:02073885619">020 7388 5619</a></li>
+              <li><i class="fas fa-phone-alt"></i> <a href="tel:02073885619">+94 757 743 74</a></li>
             </ul>
           </div>
           <div class="col-auto">
@@ -230,7 +225,8 @@
           </div>
           <div class="col-auto d-flex ">
 
-            <a class="user-btn" href="signin.html"><i class="far fa-user-circle"></i></a>
+
+            <a class="user-btn" href="signin.php"><i class="far fa-user-circle"></i></a>
           </div>
         </div>
       </div>
@@ -241,18 +237,18 @@
           <div class="row align-items-center justify-content-between">
             <div class="col-auto">
               <div class="vs-logo">
-                <a href="index.html"><img src="#" alt="logo"></a>
+                <a href="index.php"><img src="#" alt="logo"></a>
               </div>
             </div>
             <div class="col !align-items-center !align-items-lg-none  text-end text-xl-center">
               <nav class="main-menu  menu-style1 d-none d-lg-block">
                 <ul>
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="court.html">Courts</a></li>
-                  <li><a href="about.html">About</a></li>
+                  <li><a href="index.php">Home</a></li>
+                  <li><a href="court.php">Courts</a></li>
+                  <li><a href="about.php">About</a></li>
 
                   <li>
-                    <a href="contact.html">Contact</a>
+                    <a href="contact.php">Contact</a>
                   </li>
                   <div class="header-btns d-lg-inline-block d-none  d-xl-none">
                     <button class="sideCartToggler  "><i class="fal fa-shopping-bag"></i><span
@@ -262,7 +258,7 @@
               </nav>
 
               <div class="header-btns d-inline-block d-lg-none">
-                <button class="sideCartToggler   " onclick="location.href='cart.html'"><i
+                <button class="sideCartToggler   " onclick="location.href='cart.php'"><i
                     class="fal fa-shopping-bag"></i><span class="button-badge">2</span></button></a>
               </div>
 
@@ -285,149 +281,258 @@
     Header Area End
   ==============================-->
 
-  <!--==============================
-	  Hero area Start
-	==============================-->
-  <div class="breadcumb-wrapper" data-bg-src="assets/img/breadcumb/breadcumb-bg.jpg">
-    <div class="container z-index-common">
-      <div class="breadcumb-content">
-        <h1 class="breadcumb-title">Contact Us</h1>
-        <div class="breadcumb-menu-wrap">
-          <ul class="breadcumb-menu">
-            <li><a href="index.html">Home</a></li>
-            <li>Contact</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!--==============================
-	  Hero Area End
-	==============================-->
+
 
   <!--==============================
-	  Contact box Area Start
+	  Checkout Area Start
 	==============================-->
-  <section class="space contact-box_wrapper">
-    <div class="outer-wrap">
-      <div class="container">
+  <section class="vs-checkout-wrapper ">
+    <div class="container">
+      <!-- <div class="woocommerce-form-login-toggle">
+        <div class="woocommerce-info">Returning customer? <a href="#" class="showlogin">Click here to login</a>
+        </div>
+        <form action="#" class="woocommerce-form-login bg-smoke">
+          <div class="row">
+            <div class="col-lg-4">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Username or email">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Password">
+              </div>
+              <div class="form-group">
+                <div class="custom-checkbox">
+                  <input type="checkbox" id="remembermylogin">
+                  <label for="remembermylogin">Remember Me</label>
+                </div>
+              </div>
+              <div class="form-group">
+                <button type="submit" class="vs-btn style4">Login</button>
+                <p class="fs-xs mt-2 mb-0"><a class="text-reset" href="#">Lost your password?</a></p>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div> -->
+      <!-- <div class="woocommerce-form-coupon-toggle">
+        <div class="woocommerce-info">
+          Have a coupon? <a href="#" class="showcoupon">Click here to enter your code</a>
+        </div>
+      </div> -->
+      <!-- <form action="#" class="woocommerce-form-coupon bg-smoke" style="display: block;">
         <div class="row">
-          <div class="col-lg-4 col-md-6">
-            <div class="contact-box">
-              <div class="contact-box_icon">
-                <i class="fas fa-map-marked-alt"></i>
-              </div>
-              <h3 class="contact-box__title h5">Address</h3>
-              <p class="contact-box__text">
-                272 Rodney St, Brooklyn, East Houston Street New York City
-              </p>
+          <div class="col-lg-4">
+            <div class="form-group">
+              <input type="text" class="form-control" placeholder="Write your coupon code">
+            </div>
+            <div class="form-group">
+              <button type="submit" class="vs-btn style4">Apply coupon Code</button>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="contact-box">
-              <div class="contact-box_icon">
-                <i class="fas fa-address-card"></i>
+        </div>
+      </form> -->
+      <form action="#" class="woocommerce-checkout">
+        <div class="row ">
+          <div class="col-lg-6">
+            <h2 class="h4">Billing Details</h2>
+            <div class="row">
+              <div class="col-12 form-group">
+                <select class="form-select">
+                  <option>United Kingdom (UK)</option>
+                  <option>United State (US)</option>
+                  <option>Equatorial Guinea (GQ)</option>
+                  <option>Australia (AU)</option>
+                  <option>Germany (DE)</option>
+                </select>
               </div>
-              <h3 class="contact-box__title h5">Contact</h3>
-              <ul class="contact-box_list">
-                <li>Mobile: <a href="#123456789">123456789</a></li>
-                <li>Hotline: <a href="#123456789">123456789</a></li>
-              </ul>
+              <div class="col-md-6 form-group">
+                <input type="text" class="form-control" placeholder="First Name">
+              </div>
+              <div class="col-md-6 form-group">
+                <input type="text" class="form-control" placeholder="Last Name">
+              </div>
+              <div class="col-12 form-group">
+                <input type="text" class="form-control" placeholder="Your Company Name">
+              </div>
+              <div class="col-12 form-group">
+                <input type="text" class="form-control" placeholder="Street Address">
+                <input type="text" class="form-control" placeholder="Apartment, suite, unit etc. (optional)">
+              </div>
+              <div class="col-12 form-group">
+                <input type="text" class="form-control" placeholder="Town / City">
+              </div>
+              <div class="col-md-6 form-group">
+                <input type="text" class="form-control" placeholder="Country">
+              </div>
+              <div class="col-md-6 form-group">
+                <input type="text" class="form-control" placeholder="Postcode / Zip">
+              </div>
+              <div class="col-12 form-group">
+                <input type="text" class="form-control" placeholder="Email Address">
+                <input type="text" class="form-control" placeholder="Phone number">
+              </div>
+              <div class="col-12 form-group">
+                <input type="checkbox" id="accountNewCreate">
+                <label for="accountNewCreate">Create An Account?</label>
+              </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="contact-box">
-              <div class="contact-box_icon">
-                <i class="fas fa-clock"></i>
+          <div class="col-lg-6">
+            <p id="ship-to-different-address">
+              <input id="ship-to-different-address-checkbox" type="checkbox" name="ship_to_different_address" value="1">
+              <label for="ship-to-different-address-checkbox">
+                Ship to a different address?
+                <span class="checkmark"></span>
+              </label>
+            </p>
+            <div class="shipping_address">
+              <div class="row">
+                <div class="col-12 form-group">
+                  <select class="form-select">
+                    <option>United Kingdom (UK)</option>
+                    <option>United State (US)</option>
+                    <option>Equatorial Guinea (GQ)</option>
+                    <option>Australia (AU)</option>
+                    <option>Germany (DE)</option>
+                  </select>
+                </div>
+                <div class="col-md-6 form-group">
+                  <input type="text" class="form-control" placeholder="First Name">
+                </div>
+                <div class="col-md-6 form-group">
+                  <input type="text" class="form-control" placeholder="Last Name">
+                </div>
+                <div class="col-12 form-group">
+                  <input type="text" class="form-control" placeholder="Your Company Name">
+                </div>
+                <div class="col-12 form-group">
+                  <input type="text" class="form-control" placeholder="Street Address">
+                  <input type="text" class="form-control" placeholder="Apartment, suite, unit etc. (optional)">
+                </div>
+                <div class="col-12 form-group">
+                  <input type="text" class="form-control" placeholder="Town / City">
+                </div>
+                <div class="col-md-6 form-group">
+                  <input type="text" class="form-control" placeholder="Country">
+                </div>
+                <div class="col-md-6 form-group">
+                  <input type="text" class="form-control" placeholder="Postcode / Zip">
+                </div>
+                <div class="col-12 form-group">
+                  <input type="text" class="form-control" placeholder="Email Address">
+                  <input type="text" class="form-control" placeholder="Phone number">
+                </div>
               </div>
-              <h3 class="contact-box__title h5">Office Hour</h3>
-              <ul class="contact-box_list">
-                <li>Monday - Friday: 8:30 - 20:00</li>
-                <li>Saturday & Sunday: 9:30 - 21:30</li>
-              </ul>
             </div>
+            <div class="col-12 form-group">
+              <textarea cols="20" rows="5" class="form-control"
+                placeholder="Notes about your order, e.g. special notes for delivery."></textarea>
+            </div>
+          </div>
+        </div>
+      </form>
+      <h4 class="mt-4 pt-lg-2">Your Order</h4>
+      <form action="#" class="woocommerce-cart-form">
+        <div class="table-responsive">
+          <table class="cart_table">
+            <thead>
+              <tr>
+                <th class="cart-col-image">Image</th>
+                <th class="cart-col-productname">Product Name</th>
+                <th class="cart-col-price">Price</th>
+                <th class="cart-col-quantity">Quantity</th>
+                <th class="cart-col-total">Total</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="cart_item">
+                <td data-title="Product">
+                  <a class="cart-productimage" href="shop-details.php"><img width="91" height="91"
+                      src="assets/img/products/pd-thumb-1.png" alt="Image"></a>
+                </td>
+                <td data-title="Name">
+                  <a class="cart-productname" href="shop-details.php">Fujifilm Instax Mini Camera...</a>
+                </td>
+                <td data-title="Price">
+                  <span class="amount"><bdi><span>$</span>600.00 </bdi></span>
+                </td>
+                <td data-title="Quantity">
+                  <strong class="product-quantity">01</strong>
+                </td>
+                <td data-title="Total">
+                  <span class="amount"><bdi><span>$</span>600.00</bdi></span>
+                </td>
+              </tr>
+            </tbody>
+            <tfoot class="checkout-ordertable">
+              <tr class="cart-subtotal">
+                <th>Subtotal</th>
+                <td data-title="Subtotal" colspan="4"><span class="woocommerce-Price-amount amount"><bdi><span
+                        class="woocommerce-Price-currencySymbol">$</span>760</bdi></span></td>
+              </tr>
+              <tr class="woocommerce-shipping-totals shipping">
+                <th>Shipping</th>
+                <td data-title="Shipping" colspan="4">
+                  Enter your address to view shipping options.
+                </td>
+              </tr>
+              <tr class="order-total">
+                <th>Total</th>
+                <td data-title="Total" colspan="4"><strong><span class="woocommerce-Price-amount amount"><bdi><span
+                          class="woocommerce-Price-currencySymbol">$</span>760</bdi></span></strong>
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </div>
+      </form>
+      <div class="mt-lg-3">
+        <div class="woocommerce-checkout-payment">
+          <ul class="wc_payment_methods payment_methods methods">
+            <li class="wc_payment_method payment_method_bacs">
+              <input id="payment_method_bacs" type="radio" class="input-radio" name="payment_method" value="bacs"
+                checked="checked">
+              <label for="payment_method_bacs">Direct bank transfer</label>
+              <div class="payment_box payment_method_bacs" style="display: block;">
+                <p>Make your payment directly into our bank account. Please use your Order ID as the payment reference.
+                  Your order will not be shipped until the funds have cleared in our account.</p>
+              </div>
+            </li>
+            <li class="wc_payment_method payment_method_cheque">
+              <input id="payment_method_cheque" type="radio" class="input-radio" name="payment_method" value="cheque">
+              <label for="payment_method_cheque">Cheque Payment</label>
+              <div class="payment_box payment_method_cheque">
+                <p>Please send a check to Store Name, Store Street, Store Town, Store State / County, Store Postcode.
+                </p>
+              </div>
+            </li>
+            <li class="wc_payment_method payment_method_cod">
+              <input id="payment_method_cod" type="radio" class="input-radio" name="payment_method">
+              <label for="payment_method_cod">Cash On Delivery</label>
+              <div class="payment_box payment_method_cod">
+                <p>Pay with cash upon delivery.</p>
+              </div>
+            </li>
+          </ul>
+          <div class="form-row place-order pt-lg-2">
+            <button type="submit" class="vs-btn style4">Place order</button>
           </div>
         </div>
       </div>
     </div>
   </section>
   <!--==============================
-	  Contact box Area End
-	==============================-->
-
-  <!--==============================
-	  Contact Form Area End
-	==============================-->
-  <div class="space bg-light">
-    <div class="container">
-      <div class="row justify-content-center text-center">
-        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
-          <div class="title-area">
-            <span class="sec-subtitle">Contact Us</span>
-            <h2 class="sec-title h1">Get In Touch</h2>
-            <p class="sec-text">
-              Curabitur aliquet quam id dui posuere blandit. Vivamus magna
-              justo, lacinia eget consectetur sed, convgallis at tellus.
-              Vestibulum ac diam sit.
-            </p>
-          </div>
-        </div>
-      </div>
-      <form class="ajax-contact" action="mail.php" method="post">
-        <div class="row justify-content-center">
-          <div class="col-md-6 form-group">
-            <input type="text" placeholder="Enter Your First Name" name="fname" id="fname" class="form-control"
-              required />
-          </div>
-          <div class="col-md-6 form-group">
-            <input type="text" placeholder="Enter Your Last Name" name="lname" id="lname" class="form-control"
-              required />
-          </div>
-          <div class="col-md-6 form-group">
-            <input type="email" placeholder="Your Email" name="email" id="email" class="form-control" required />
-          </div>
-          <div class="col-md-6 form-group">
-            <input type="number" placeholder="Phone No" name="phone" id="phone" class="form-control" required />
-          </div>
-          <div class="form-group col-12">
-            <textarea placeholder="Write Your Comment" name="message" id="message" class="form-control"
-              required></textarea>
-          </div>
-          <div class="col-md-auto pt-lg-3">
-            <button type="submit" class="vs-btn style4">Send Message</button>
-          </div>
-        </div>
-      </form>
-      <p class="form-messages text-center mb-0 mt-3"></p>
-    </div>
-  </div>
-  <!--==============================
-	  Contact Form Area End
+	  Checkout Area End
 	==============================-->
 
   <!--==============================
 	  Footer Area
 	==============================-->
-  <footer class="footer-wrapper footer-layout1" data-bg-src="assets/img/bg/footer-bg.jpg">
+  <footer class="footer-wrapper footer-layout1 mt-4" data-bg-src="assets/img/bg/footer-bg.jpg">
     <div class="footer-top">
       <div class="shadow-color"></div>
       <div class="container">
-        <div class="cta-style1">
-          <div class="row g-5 align-items-center justify-content-between">
-            <div class="col-lg-6">
-              <div class="cta-content">
-                <h2 class="cta-title">Ready to get started?</h2>
-                <p class="cta-text">It only takes a few minutes to register your account.</p>
-                <a href="sign-up.html" class="vs-btn style2">Open An Account</a>
-              </div>
-            </div>
-            <div class="col-md-5 col-sm-6">
-              <div class="cta-image d-lg-block d-none">
-                <img src="assets/img/newsletter.png" alt="CTA Image">
-              </div>
-            </div>
-          </div>
-        </div>
+
       </div>
     </div>
     <div class="widget-area">
@@ -437,7 +542,7 @@
             <div class="widget footer-widget">
               <div class="vs-widget-about">
                 <div class="footer-logo">
-                  <a href="index.html"><img src="assets/img/white-logo.sv" alt="Fruitsel" class="logo" /></a>
+                  <a href="index.php"><img src="assets/img/white-logo.sv" alt="Fruitsel" class="logo" /></a>
                 </div>
                 <p class="footer-text">Curabitur aliquet quam id dui bandit posuere blandit. Vivamfdsus magna justo
                   blandit aliquet.</p>
@@ -455,11 +560,11 @@
               <h3 class="widget_title">Useful Links</h3>
               <div class="menu-all-pages-container">
                 <ul class="menu">
-                  <li><a href="index.html"><i class="far fa-angle-right"></i> Home</a></li>
+                  <li><a href="index.php"><i class="far fa-angle-right"></i> Home</a></li>
 
-                  <li><a href="court.html"><i class="far fa-angle-right"></i> Courts</a></li>
-                  <li><a href="about.html"><i class="far fa-angle-right"></i> About</a></li>
-                  <li><a href="contact.html"><i class="far fa-angle-right"></i> Contact</a></li>
+                  <li><a href="court.php"><i class="far fa-angle-right"></i> Courts</a></li>
+                  <li><a href="about.php"><i class="far fa-angle-right"></i> About</a></li>
+                  <li><a href="contact.php"><i class="far fa-angle-right"></i> Contact</a></li>
                 </ul>
               </div>
             </div>
@@ -507,7 +612,7 @@
         <div class="row justify-content-between align-items-center">
           <div class="col-lg-auto">
             <p class="copyright-text">Copyright <i class="fal fa-copyright"></i>
-              <script>document.write(new Date().getFullYear())</script> <a href="index.html"> Uff</a>.
+              <script>document.write(new Date().getFullYear())</script> <a href="index.php"> Uff</a>.
               All Rights Reserved By <a href="https://themeforest.net/user/vecuro">Uff</a>
             </p>
           </div>
